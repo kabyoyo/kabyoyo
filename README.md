@@ -10,6 +10,14 @@ ICT Engineering student majoring in Data Networks & Cyber Security at Turku Univ
 
 ### 🎮 Hobbies & Side Tinkering:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=plastic&logo=godot-engine) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+* **[Funnish](https://funnish.itch.io/funnish-play)** — Interactive browser/indie game built to make learning the Finnish language fun through gameplay *(Password: `FunnishTheGame`)*.
+<!--
+# 🚀 Projects:
+* **[TryHackMe Security Lab Write-Ups](https://github.com/kabyoyo/tryhackme-writeups)** — Methodology-focused walkthroughs and defensive takeaways covering packet analysis, Linux systems, and web security (`Wireshark`, `Nmap`, `Burp Suite`, `Linux`).
+* **[Project 2 Name](https://github.com/kabyoyo/repo-name)** — One-line summary of what it solves and the tools used (`Python`, `Bash`).
+-->
+# 📜 Certificates:
+* **[Pre Security Learning Path](https://tryhackme.com/certificate/THM-W43F2ATINC)** — TryHackMe (Credential ID: `THM-W43F2ATINC`)
 
 <!--
 # 📊 GitHub Stats:
