@@ -1,5 +1,5 @@
 # 💫 About Me:
-ICT Engineering student majoring in Data Networks & Cyber Security at Turku University of Applied Sciences (Turku, Finland). <br><br>I spend most of my time digging into network defense, Linux systems administration, and security labs. Right now, I'm focused on threat detection, penetration testing workflows, and hardening Linux environments—working toward an entry-level SOC Analyst or Cyber Security Trainee role in Finland.<br><br>Always down to talk shop about Kali Linux customization, TCP/IP networking, or security tooling.
+ICT Engineering student majoring in Data Networks & Cyber Security at Turku University of Applied Sciences (Turku, Finland). <br><br>I spend most of my time digging into network defense, Linux systems administration, and security labs. Right now, I'm focused on threat detection, penetration testing workflows, and hardening Linux environments—working toward an entry-level SOC Analyst or Cyber Security Trainee role in Finland.<br><br>Always down to talk about Kali Linux customization, TCP/IP networking, or security tooling.
 
 
 ## 🌐 Socials:
